@@ -36,7 +36,7 @@ EEG-Sentiment-Aware-Transformer/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/eeg-sentiment-transformer.git
+git clone https://github.com/Lijinhui617/NeuroSentiNet.git
 cd eeg-sentiment-transformer
 ```
 
